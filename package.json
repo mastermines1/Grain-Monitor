@@ -1,0 +1,24 @@
+{
+  "name": "grain_monitor",
+  "version": "1.0.0",
+  "description": "A node server to monitor enviromental conditions inside and outside of a grain store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mastermines1",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastermines1/Grain-Monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mastermines1/Grain-Monitor/issues"
+  },
+  "homepage": "https://github.com/mastermines1/Grain-Monitor#readme"
+}
